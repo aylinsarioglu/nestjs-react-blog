@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Blog application with NestJS API and React client",
+  "private": true,
+  "scripts": {
+    "start": "cd api && npm start",
+    "start:dev": "cd api && npm run start:dev",
+    "start:prod": "cd api && npm run start:prod",
+    "client:dev": "cd client && npm run dev",
+    "client:build": "cd client && npm run build",
+    "api:build": "cd api && npm run build",
+    "build": "npm run api:build && npm run client:build",
+    "install:all": "cd api && npm install && cd ../client && npm install"
+  }
+}
