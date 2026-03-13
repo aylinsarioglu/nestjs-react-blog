@@ -1,46 +1,62 @@
-\# NestJS React Blog
+\# 📝 NestJS + React Blog Platform
 
 
 
-Fullstack blog platform built with NestJS and React.
+A modern \*\*fullstack blog platform\*\* built with \*\*NestJS\*\* for the backend and \*\*React + Vite\*\* for the frontend.
 
 
 
-\## Tech Stack
+This project demonstrates a scalable fullstack architecture including authentication, modular backend design, and a component-based React client.
 
 
 
-Backend:
-
-\- NestJS
-
-\- JWT Authentication
-
-\- TypeScript
+---
 
 
 
-Frontend:
-
-\- React
-
-\- Vite
-
-\- TypeScript
+\# 🚀 Tech Stack
 
 
 
-\## Features
+\## Backend
 
 
 
-\- Authentication
+\- \*\*NestJS\*\*
 
-\- Blog CRUD
+\- \*\*TypeScript\*\*
 
-\- Comments
+\- \*\*JWT Authentication\*\*
 
-\- Modular backend architecture
+\- Modular architecture
+
+\- REST API
+
+
+
+\## Frontend
+
+
+
+\- \*\*React\*\*
+
+\- \*\*Vite\*\*
+
+\- \*\*TypeScript\*\*
+
+\- Component based architecture
+
+\- API service layer
+
+
+
+---
+
+
+
+\# 📂 Project Structure
+
+
 
 
 
