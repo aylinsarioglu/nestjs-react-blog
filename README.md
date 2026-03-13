@@ -57,23 +57,25 @@ This project demonstrates a scalable fullstack architecture including authentica
 \# 📂 Project Structure
 
 
-**
--- nestjs-react-blog
+# 📂 Project Structure
+
+```
+nestjs-react-blog
 │
 ├── api
-│ ├── auth
-│ ├── blog
-│ ├── comment
-│ ├── user
-│ └── types
+│   ├── auth
+│   ├── blog
+│   ├── comment
+│   ├── user
+│   └── types
 │
 └── client
-├── components
-├── pages
-├── services
-├── hooks
-└── utils
-**
+    ├── components
+    ├── pages
+    ├── services
+    ├── hooks
+    └── utils
+```
 
 
 
