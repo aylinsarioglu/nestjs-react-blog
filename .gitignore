@@ -1,0 +1,4 @@
+# final cleanup
+.vscode/
+.env
+package-lock.json
