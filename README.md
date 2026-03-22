@@ -78,6 +78,11 @@ nestjs-react-blog
 ```
 
 
+## 📌 Status
+
+Project completed and ready for further improvements.
+
+
 
 
 
